@@ -1,42 +1,64 @@
-# Dev Portfolio Template 🚀
 
-> A sleek, responsive, and interactive portfolio website — built so *you* don’t have to start from scratch.
+# 🌐 Modern Portfolio Website
 
----
+![logo](portfolio2.png)
 
-## 🔗 Original Project
-
-This demo is based on the original version created here:  
-👉 **https://github.com/hiruGamage/dev-portfolio.01**  
-Feel free to check it out for comparison, structure, and inspiration.
+A sleek, responsive, and interactive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
+Designed to showcase your skills, projects, and experience with elegant animations and smooth user interactions.
 
 ---
 
-## 🔖 What is this?
-
-This project is a **starter / demo portfolio template** intended for developers, designers or creators who want to showcase their work quickly.  
-It gives you a ready-to-use structure for a personal portfolio website — just plug in your info, your projects, and go live.
-
----
-
-## ✨ Features
-
-- ✅ Clean HTML / CSS / JavaScript setup  
-- ✅ Fully responsive design  
-- ✅ Smooth animations & transitions  
-- ✅ Easy to customize content and visuals  
-- ✅ Simple structure — beginner-friendly and flexible  
+## 🔗 Live Demo
+You can preview the portfolio locally by opening `index.html` in a modern browser.  
+Or access the online demo here: [Live Demo](https://dev-portfolio01-sg.netlify.app/)
 
 ---
 
-## 🛠️ What you can customize
-
-- Name, bio, socials  
-- Projects list + images  
-- Colors, fonts, spacing  
-- Animations and layout  
-- Icons / assets in the `assets/` folder  
+## 🧰 Tools & Technologies
+| Category | Tools Used |
+|-----------|-------------|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6) |
+| **Styling** | Flexbox, Grid, Transitions, Keyframes |
+| **Icons** | Font Awesome / Boxicons |
+| **Typography** | Google Fonts |
+| **Animations** | Vanilla JS + CSS Animations |
+| **Version Control** | Git & GitHub |
+| **Deployment** | GitHub Pages |
 
 ---
 
-## 📁 Project Structure
+## 🧠 Customization
+You can easily customize the project by:
+- Editing your name, bio, and project details in `index.html`
+- Changing theme colors and fonts in `style.css`
+- Replacing the logo in `profile/images/logo.png`
+- Adjusting typing speed, animation timing, and scroll effects in `script.js`
+
+> 💡 Tip: Update the meta description and keywords in the `<head>` tag of `index.html` for better SEO.
+
+---
+
+## 📂 Project Structure
+
+```bash
+📦 modern-portfolio-website
+ ┣ 📜 index.html          # Main HTML file
+ ┣ 📜 style.css           # Website styling
+ ┣ 📜 script.js           # Main JavaScript file
+ ┣ 📂 assets              # Folder containing all assets
+ ┃ ┣ 📂 images            # Images and logos
+ ┃ ┣ 📂 icons             # SVGs or icons
+ ┃ ┗ 📂 fonts             # Custom fonts (optional)
+ ┗ 📜 README.md           # Project documentation
+```
+---
+
+
+## 📬 Contact
+  
+- GitHub: [GitHub](https://github.com/hirugamage)  
+
+
+---
+
+Made with ❤️ by **SG**
